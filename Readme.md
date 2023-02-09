@@ -1,9 +1,8 @@
 # AgrEvader
 
-## Cite AgrEvader
-If you use AgrEvader for research, please cite the following paper:
-
-NEED CITATION
+## AgrEvader: Poisoning Membership Inference against Byzantine-robust Federated Learning
+This repository contains the code of the following paper: 
+* Yanjun Zhang, Guangdong Bai, Pathum Chamikara Mahawaga Arachchige,Mengyao Ma, Liyue Shen, Jingwei Wang, Surya Nepal, Minhui Xue, Long Wang, and Joseph K. Liu. 2023. AgrEvader: Poisoning Membership Inference against Byzantine-robust Federated Learning. In Proceedings of the ACM Web Conference 2023 (WWW ’23), May 1–5, 2023, Austin, TX, USA. ACM,New York, NY, USA, 13 pages.
 
 
 ## Code structure
