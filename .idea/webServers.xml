@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f706a274-8969-40cc-b485-3b32f1199608" name="Trustlab">
+        <fileTransfer rootFolder="/home/mengyao/mia/FL_active/Encapsulated_FL" accessType="SFTP" host="trustserver" port="22" sshConfigId="5e39148e-8a6d-42ae-972c-2626cbdeee6b" sshConfig="mengyao@trustserver:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="18f0643f-b844-4722-ab8e-1019101845a2" name="Trustserver">
+        <fileTransfer accessType="SFTP" host="trustserver" port="22" sshConfigId="5e39148e-8a6d-42ae-972c-2626cbdeee6b" sshConfig="mengyao@trustserver:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
