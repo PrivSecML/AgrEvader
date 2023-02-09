@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2022 Jonas Geiping, Yuxin Wen, Liam Fowl
+Copyright (c) 2023 Yanjun Zhang, Guangdong Bai, Pathum Chamikara Mahawaga Arachchige,Mengyao Ma, Liyue Shen, Jingwei Wang, Surya Nepal, Minhui Xue, Long Wang, and Joseph K. Liu
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
